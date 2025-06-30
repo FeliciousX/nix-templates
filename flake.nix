@@ -167,7 +167,7 @@
           ];
         };
         node22 = mkWelcomeText {
-          path = ./node-22;
+          path = ./node22;
           name = "NodeJS Template";
           description = ''
             Node 22 Template
